@@ -1,5 +1,13 @@
 # ZEN.SOLUTIONS
 
+<div align="center">
+  <img src="https://zen-solutions.dev/assets/Zen_Sunset_hero.jpeg" alt="Zen Solutions" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  
 **Build with intention. Scale with clarity.**
 
 Most AI consulting stops at the prototype. The work here runs the full
