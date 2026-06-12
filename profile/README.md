@@ -1,4 +1,4 @@
-# ZEN.SOLUTIONS
+# ZEN SOLUTIONS
 
 <div align="center">
   <img src="https://zen-solutions.dev/assets/Zen_Sunset_hero.jpeg" alt="Zen Solutions" width="100%">
