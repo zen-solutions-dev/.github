@@ -23,7 +23,7 @@ layer to maintain it. The education work exists for the same reason the
 consulting does: practitioners who understand the full delivery cycle build
 better systems than those who only know the tooling at the top of it.
 
-Founded by Hans Havlik: ten years as a developer, five in enterprise AI
+Founded by Hans Havlik: ten years as a software developer, five in enterprise AI/ML Ops and
 delivery, building at the intersection of agentic systems, cloud
 architecture, and the discipline it takes to ship reliable systems into production environments for organizations and teams in enterprise.
 
