@@ -1,56 +1,46 @@
-# ZEN SOLUTIONS
+# Zen Solutions
 
-<div align="center">
-  <img src="https://zen-solutions.dev/assets/Zen_Sunset_hero.jpeg" alt="Zen Solutions" width="100%">
-</div>
+<p align="center">
+  <img src="https://zen-solutions.dev/assets/og-card.jpg" alt="Zen Solutions artwork: a crimson bonsai before a glowing moon over a dark lake" width="100%">
+</p>
 
-<br>
+**Build with intention. Scale with clarity. Keep the keys in the client's hands.**
 
-<div align="center">
-  
-**Build with intention. Scale with clarity.**
+I build AI systems that work, and I leave you more capable of running them than you were when I
+arrived.
 
-Most AI consulting stops at the prototype. The work here runs the full
-path: system design and architecture, implementation, testing, deployment
-to production, and the instrumentation, tracing, and data visualization
-that tells you what the system is actually doing once it is live.
-Agentic solutions get the same treatment: not just a working demo, but a
-harness built to run.
+Zen Solutions is the independent practice of Hans Havlik. Ten years building software, four of them
+delivering enterprise AI: multi-agent orchestration, agentic harness design, retrieval pipelines,
+and the CI/CD that ships them.
 
-Zen Solutions consults, builds, and teaches. Clients and business partners
-get the architecture thinking, the delivered system, and the observability
-layer to maintain it. The education work exists for the same reason the
-consulting does: practitioners who understand the full delivery cycle build
-better systems than those who only know the tooling at the top of it.
+## What lives here
 
-Founded by Hans Havlik: ten years as a software developer, five in enterprise AI/ML Ops and
-delivery, building at the intersection of agentic systems, cloud
-architecture, and the discipline it takes to ship reliable systems into production environments for organizations and teams in enterprise.
+**[zen-agent-skills](https://github.com/zen-solutions-dev/zen-agent-skills)** is the method, given
+away. Cross-harness agent skills for Claude Code, Copilot, Codex and Cursor: the patterns that held
+up on real work, in a form something else can run. MIT licensed.
 
----
+Everything else in this organisation is the practice running on itself. The site, the content
+system and the research tools are built with the same method before it is recommended to anyone
+else.
 
-## What ships from here
+## How the work runs
 
-Agentic AI systems built with LangGraph, LangChain, Microsoft Agent
-Framework, Google ADK, MCP, and Claude Code. Cloud AI deployments on Azure
-AI Foundry, Vertex AI, and Firebase. Workflow automation and data pipelines.
-Web infrastructure and business system integrations.
+- You own every account, file and credential.
+- Everything is written down.
+- Your people get trained, not made dependent.
+- If you do not need AI for a problem, I will tell you so.
 
-**Stack:** Python · Node.js · LangGraph · LangChain · Microsoft Agent
-Framework · Google ADK · Claude Code · MCP · Azure · Vertex AI · Firebase ·
-Docker · Kubernetes · Terraform · PostgreSQL · Redis · Supabase · n8n
+Some of this work I turn down: content generated at volume to game search rankings, claims that are
+not true, automation sold as a way to cut headcount, and anything that amounts to watching people.
 
----
-
-## Find the rest of the work
+## Find the rest
 
 [zen-solutions.dev](https://zen-solutions.dev) ·
-[Substack](https://substack.com/@zensolutions) ·
-[YouTube](https://youtube.com/@zen-solutions-dev) ·
+[Field Manual](https://zen-solutions.dev/field-manual) ·
+[Substack](https://hanshavlik.substack.com) ·
+[YouTube](https://www.youtube.com/@zen-solutions-dev) ·
 [Discord](https://discord.gg/znMbhPs7PY) ·
-[Book a call](https://calendar.app.google/qxVaescc47dy2Afv7)
+[Hans on GitHub](https://github.com/hams-ollo)
 
----
-
-*Give someone a solution and you help them once. Teach them to build
-solutions and you change what they are capable of.*
+*Give someone a solution and you help them once. Teach them to build solutions and you change what
+they are capable of.*
